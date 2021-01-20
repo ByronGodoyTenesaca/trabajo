@@ -1,0 +1,1 @@
+(personalidad (tipos "estj" "entj" "esfj" "estp" "enfj" "entp" "esfp" "enfp" "infp" "isfp" "intp" "infj" "intj" "isfj" "istp" "istj") (caracteristicas "Gerente" "Comandante" "Maestro" "Mariscal" "Mentor" "inventor" "Politico" "Campeón" "Sanador" "Compositor" "Arquitecto" "Asesor" "Inspirador" "Protector" "Manitas" "Inspector"))
